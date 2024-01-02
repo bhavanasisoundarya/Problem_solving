@@ -1,4 +1,4 @@
-package Day1;
+package Problem_Solving;
 
 public class day1_Sollutions {
 
@@ -36,13 +36,13 @@ public class day1_Sollutions {
 //		
 //............................//
 		// third question//
-		int s = 3;
-		for(int i=1; i<=s; i++) {
-			for(int j=1; j<=s; j++) {
-				System.out.print(i);
-			}
-			System.out.println();
-		}
+//		int s = 3;
+//		for(int i=1; i<=s; i++) {
+//			for(int j=1; j<=s; j++) {
+//				System.out.print(i);
+//			}
+//			System.out.println();
+//		}
 	}
 
 }
